@@ -1,10 +1,33 @@
-# Library Management System 
+# Ideation Bootcamp Assignment: Library Management System
+## Tech Stack
+- Django
+- HTML
+- CSS
+- Bootstrap
+- SQLite
+- Javascript
+- Python
 
 This repository has a basic implementation of a Library Management System using Django
 
+## Gain GitHub badges and certificates
+- Gain github badges and certificates by completing the tasks mentioned in the issues.
+- Head over to the issues tab and start solving the issues.
+- Comment on the issue you want to work on and get it assigned to you.
+- Once you're assigned, Fork this repository and start working on the issue.
+
+## What you'll gain from this assignment
+- You'll learn how to use GitHub to collaborate with other developers.
+- You'll learn how to use Django to create a web application.
+- You'll learn how to use HTML, CSS, Bootstrap and Javascript to create a frontend for your web application.
+- You'll learn how to use SQLite to store data in your web application.
+- You'll learn how to format your code properly.
+- You'll learn how to write clear commit messages.
+- You'll learn how to create a pull request.
+- You'll learn how to use git commands like add, commit, push, pull, etc.
+- You'll learn how to use git branches.
+
 ## Steps
-
-
 
 1. Clone your forked repository.
 > You can use the following command to clone the repository
